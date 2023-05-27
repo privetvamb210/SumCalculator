@@ -1,0 +1,4 @@
+    int sum = num1 + num2;
+        System.out.println("Сумма чисел " + num1 + " и " + num2 + " равна " + sum);
+    }
+}
